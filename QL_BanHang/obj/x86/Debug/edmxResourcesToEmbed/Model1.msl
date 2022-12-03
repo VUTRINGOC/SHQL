@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QL_BanHangModelStoreContainer" CdmEntityContainer="QL_BanHangEntities">
+    <EntitySetMapping Name="tb_CTHD">
+      <EntityTypeMapping TypeName="QL_BanHangModel.tb_CTHD">
+        <MappingFragment StoreEntitySet="tb_CTHD">
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="MaHH" ColumnName="MaHH" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_HoaDon">
+      <EntityTypeMapping TypeName="QL_BanHangModel.tb_HoaDon">
+        <MappingFragment StoreEntitySet="tb_HoaDon">
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="NgayLap" ColumnName="NgayLap" />
+          <ScalarProperty Name="NguoiLap" ColumnName="NguoiLap" />
+          <ScalarProperty Name="KhachHang" ColumnName="KhachHang" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

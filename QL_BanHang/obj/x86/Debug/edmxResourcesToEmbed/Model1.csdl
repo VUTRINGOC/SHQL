@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QL_BanHangModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tb_CTHD">
+    <Key>
+      <PropertyRef Name="MaHD" />
+      <PropertyRef Name="MaHH" />
+    </Key>
+    <Property Name="MaHD" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MaHH" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SoLuong" Type="Int32" />
+    <Property Name="DonGia" Type="Int32" />
+    <NavigationProperty Name="tb_HoaDon" Relationship="Self.FK_tb_CTHD_tb_HoaDon" FromRole="tb_CTHD" ToRole="tb_HoaDon" />
+  </EntityType>
+  <EntityType Name="tb_HoaDon">
+    <Key>
+      <PropertyRef Name="MaHD" />
+    </Key>
+    <Property Name="MaHD" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NgayLap" Type="DateTime" Precision="0" />
+    <Property Name="NguoiLap" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="KhachHang" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="tb_CTHD" Relationship="Self.FK_tb_CTHD_tb_HoaDon" FromRole="tb_HoaDon" ToRole="tb_CTHD" />
+  </EntityType>
+  <Association Name="FK_tb_CTHD_tb_HoaDon">
+    <End Role="tb_HoaDon" Type="Self.tb_HoaDon" Multiplicity="1" />
+    <End Role="tb_CTHD" Type="Self.tb_CTHD" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_HoaDon">
+        <PropertyRef Name="MaHD" />
+      </Principal>
+      <Dependent Role="tb_CTHD">
+        <PropertyRef Name="MaHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QL_BanHangEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tb_CTHD" EntityType="Self.tb_CTHD" />
+    <EntitySet Name="tb_HoaDon" EntityType="Self.tb_HoaDon" />
+    <AssociationSet Name="FK_tb_CTHD_tb_HoaDon" Association="Self.FK_tb_CTHD_tb_HoaDon">
+      <End Role="tb_HoaDon" EntitySet="tb_HoaDon" />
+      <End Role="tb_CTHD" EntitySet="tb_CTHD" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

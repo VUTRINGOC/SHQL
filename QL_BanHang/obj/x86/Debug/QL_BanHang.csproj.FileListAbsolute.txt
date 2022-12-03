@@ -1,0 +1,77 @@
+D:\Hoang\Project\QL_BanHang\QL_BanHang\bin\Debug\QL_BanHang.exe
+D:\Hoang\Project\QL_BanHang\QL_BanHang\bin\Debug\QL_BanHang.pdb
+D:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.Properties.Resources.resources
+D:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmNhanVien.resources
+D:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.csproj.GenerateResource.Cache
+D:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.exe
+D:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.pdb
+D:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.csprojResolveAssemblyReference.cache
+D:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmKhachHang.resources
+D:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmHangHoa.resources
+D:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmHoaDon.resources
+E:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.exe
+E:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.pdb
+E:\Hoang\Project\QL_BanHang\QL_BanHang\bin\Debug\QL_BanHang.exe
+E:\Hoang\Project\QL_BanHang\QL_BanHang\bin\Debug\QL_BanHang.pdb
+E:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.csprojResolveAssemblyReference.cache
+E:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.Properties.Resources.resources
+E:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmHangHoa.resources
+E:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmHoaDon.resources
+E:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmKhachHang.resources
+E:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmNhanVien.resources
+E:\Hoang\Project\QL_BanHang\QL_BanHang\obj\x86\Debug\QL_BanHang.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\bin\Debug\QL_BanHang.exe
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\bin\Debug\QL_BanHang.pdb
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmHangHoa.resources
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmHoaDon.resources
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmKhachHang.resources
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmNhanVien.resources
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.exe
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.pdb
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.frmMain.resources
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmThongKe.resources
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\bin\Debug\QL_BanHang.exe.config
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.View.Maytinh.resources
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmNhaCungCap.resources
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.View.DangNhap.QuanLyDN.resources
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmDangNhap.resources
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.View.DangNhap.NhanVienDN.resources
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmMain2.resources
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.View.TimKiemHD.resources
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.View.ghino.resources
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\QLBH moi\QL_BanHang\obj\x86\Debug\QL_BanHang.csproj.CopyComplete
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\bin\Debug\QL_BanHang.exe.config
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\bin\Debug\QL_BanHang.exe
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\bin\Debug\QL_BanHang.pdb
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmMain2.resources
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.View.ghino.resources
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmNhaCungCap.resources
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmThongKe.resources
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmHangHoa.resources
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmHoaDon.resources
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmKhachHang.resources
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.frmMain.resources
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmNhanVien.resources
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.View.Maytinh.resources
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.View.TimKiemHD.resources
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.csproj.CopyComplete
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.exe
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.pdb
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.View.frmtrogiup.resources
+C:\Users\Admin\Downloads\QLBH moi - Copy\QL_BanHang\obj\x86\Debug\QL_BanHang.View.Login.resources

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QL_BanHangModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tb_CTHD">
+    <Key>
+      <PropertyRef Name="MaHD" />
+      <PropertyRef Name="MaHH" />
+    </Key>
+    <Property Name="MaHD" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MaHH" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="SoLuong" Type="int" />
+    <Property Name="DonGia" Type="int" />
+  </EntityType>
+  <EntityType Name="tb_HoaDon">
+    <Key>
+      <PropertyRef Name="MaHD" />
+    </Key>
+    <Property Name="MaHD" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="NgayLap" Type="date" />
+    <Property Name="NguoiLap" Type="varchar" MaxLength="10" />
+    <Property Name="KhachHang" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <Association Name="FK_tb_CTHD_tb_HoaDon">
+    <End Role="tb_HoaDon" Type="Self.tb_HoaDon" Multiplicity="1" />
+    <End Role="tb_CTHD" Type="Self.tb_CTHD" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_HoaDon">
+        <PropertyRef Name="MaHD" />
+      </Principal>
+      <Dependent Role="tb_CTHD">
+        <PropertyRef Name="MaHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QL_BanHangModelStoreContainer">
+    <EntitySet Name="tb_CTHD" EntityType="Self.tb_CTHD" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tb_HoaDon" EntityType="Self.tb_HoaDon" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_tb_CTHD_tb_HoaDon" Association="Self.FK_tb_CTHD_tb_HoaDon">
+      <End Role="tb_HoaDon" EntitySet="tb_HoaDon" />
+      <End Role="tb_CTHD" EntitySet="tb_CTHD" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
